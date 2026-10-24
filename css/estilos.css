@@ -1,0 +1,39 @@
+header{
+	background-color: #F8F9FA;
+}
+
+.typ{
+	  font-family: "Alata", sans-serif;
+}
+.parr{
+	text-align: center;
+}
+
+.btn-primary{
+	background-color:#8C1A3C;
+	border-color: #8C1A3C;
+	color: white;
+}
+
+h1{
+	color: #9595F9;
+	font-family: "Alata", sans-serif;
+	text-align: center;
+}
+
+footer{
+	text-align: center;
+	background-color: #EF87D4;
+	color: #FDEED7;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+h2{
+	font-family: "Alata", sans-serif;
+	text-align: center;
+}
+
+.form{
+	padding: 4%;
+}
